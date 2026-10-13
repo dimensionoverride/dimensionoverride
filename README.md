@@ -1,187 +1,103 @@
 
 <div align="center">
 
-# ⚡ DIMENSION OVERRIDE ⚡
+# DIMENSION OVERRIDE
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=BEYOND+REALITY.+BEYOND+LIMITS.;BUILDING+THE+NEXT+DIMENSION;WHERE+REALITY+BECOMES+YOUR+ENEMY;WELCOME+TO+DIMENSION+OVERRIDE" alt="Animated title" />
+### BEYOND REALITY. BEYOND LIMITS.
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1400&color=8B9DFF&center=true&vCenter=true&width=550&lines=Independent+Game+Development;Crafting+Worlds+Beyond+Perception;One+World.+Multiple+Realities." alt="Dimension Override animated introduction" />
 
-**GAME DEVELOPMENT STUDIO | UNITY | SCI-FI | MULTIPLAYER**
+**An independent game development project focused on immersive worlds, innovative mechanics, and meaningful player experiences.**
 
-<img src="https://img.shields.io/badge/ENGINE-UNITY-111827?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANGUAGE-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/3D-BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-22C55E?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🌌 ABOUT DIMENSION OVERRIDE
-
-**Dimension Override** is an independent game development project dedicated to creating immersive, innovative, and visually compelling interactive experiences.
-
-Our mission is to push the boundaries of conventional gameplay by combining:
-
-- 🧠 Psychological Thriller
-- 🌌 Science Fiction & Dark Fantasy
-- 🎮 Cooperative Multiplayer
-- 🌀 Reality-Bending Gameplay
-- 🎨 Atmospheric 3D Environments
-- ⚔️ Action, Exploration & Survival
-
-> **"Reality is not what you see. It is what you survive."**
-
----
-
-## 🎮 OUR FLAGSHIP GAME
-
-<div align="center">
-
-### DIMENSION OVERRIDE
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=One+World.+Multiple+Realities.;Your+Reality+Is+Not+Their+Reality.;Cooperate+To+Survive+The+Unknown." alt="Game tagline" />
-
-</div>
-
-**Dimension Override** is a multiplayer psychological sci-fi thriller where players experience different versions of the same reality.
-
-### 🌀 REALITY OVERRIDE SYSTEM
-
-Our core gameplay mechanic introduces a unique cooperative experience.
-
-- Different players perceive different dimensions.
-- Reality shifts dynamically during gameplay.
-- Environmental puzzles require teamwork.
-- Hidden pathways emerge across alternate realities.
-- Players must communicate to uncover the truth.
-
-### 🎯 GAME INFORMATION
-
-| Category | Details |
-|---|---|
-| 🎮 Title | Dimension Override |
-| 🧠 Genre | Psychological Thriller |
-| 🌌 Setting | Sci-Fi / Dark Fantasy |
-| ⚙️ Engine | Unity |
-| 💻 Platforms | PC & Mobile |
-| 👥 Game Mode | Multiplayer Co-op |
-| 🛠 Development | Active Development |
-| 🌀 Core System | Reality Override |
-
----
-
-## ⚙️ TECHNOLOGY STACK
-
-<div align="center">
-
-### GAME DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,visualstudio,vscode&theme=dark"/>
-
-### DEVELOPMENT & COLLABORATION
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,discord,figma&theme=dark"/>
+[![Unity](https://img.shields.io/badge/Unity-Game_Engine-30363D?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/C%23-Programming-30363D?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Blender](https://img.shields.io/badge/Blender-3D_Art-30363D?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
+![Status](https://img.shields.io/badge/Status-In_Development-238636?style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 DEVELOPMENT ROADMAP
+## About
 
-- [x] Game concept and vision
-- [x] Initial development planning
-- [x] Core gameplay architecture planning
-- [ ] Character modeling and animation
-- [ ] Reality Override prototype
-- [ ] Multiplayer synchronization
-- [ ] Core environment development
-- [ ] Psychological gameplay systems
-- [ ] First playable vertical slice
-- [ ] Internal testing and optimization
-- [ ] Public gameplay showcase
+**Dimension Override** is an independent game development initiative exploring the intersection of psychological storytelling, science fiction, and cooperative gameplay.
+
+Our focus is on developing interactive experiences where atmosphere, exploration, and player decisions shape the way a world is perceived.
+
+We aim to create games that challenge expectations and introduce new ways for players to interact with their environments and each other.
+
+## Featured Project
+
+### Dimension Override
+
+**Psychological Thriller · Science Fiction · Dark Fantasy · Multiplayer Co-op**
+
+A cooperative, reality-bending adventure built around a central idea:
+
+**What if two players could exist in the same world but experience entirely different realities?**
+
+Dimension Override explores this concept through asymmetric perception, environmental storytelling, and teamwork-driven gameplay.
+
+### Core Experience
+
+- **Asymmetric Reality** — Players perceive different versions of the same environment.
+- **Cooperative Discovery** — Communication reveals information that no single player possesses.
+- **Environmental Interaction** — Different realities introduce unique pathways and obstacles.
+- **Psychological Atmosphere** — An unsettling world where perception cannot always be trusted.
+
+> Reality is not what you see. It is what you survive.
+
+## Technology
+
+| Area | Technology |
+|:--|:--|
+| Game Engine | Unity |
+| Programming | C# |
+| 3D Content Creation | Blender |
+| Version Control | Git & GitHub |
+| Target Platforms | PC & Mobile |
+| Gameplay | Multiplayer Co-op |
+
+## Development
+
+**Current Focus — Building the First Playable Experience**
+
+Our initial development phase focuses on establishing the foundational gameplay systems and validating the Reality Override mechanic.
+
+**Development priorities:**
+
+1. Core player movement and interaction
+2. Character and environment development
+3. Reality Override prototype
+4. Multiplayer gameplay integration
+5. First playable vertical slice
+
+*Development is ongoing. Features and priorities may evolve as the project progresses.*
+
+## Our Approach
+
+We believe memorable games are built through a balance of technical craftsmanship, creative direction, and thoughtful design.
+
+Our guiding principles are:
+
+**Innovation** — Explore mechanics that create meaningful new experiences.
+
+**Immersion** — Build believable worlds through atmosphere, detail, and storytelling.
+
+**Collaboration** — Bring together different creative and technical disciplines.
+
+**Quality** — Focus on strong foundations and deliberate execution.
 
 ---
-
-## 👥 DEVELOPMENT TEAM
-
-Our development workflow brings together multiple creative and technical disciplines.
-
-| Department | Responsibilities |
-|---|---|
-| 🎮 Game Development | Unity systems, gameplay mechanics |
-| 💻 Backend Development | Networking and multiplayer systems |
-| 🎨 3D Art | Characters, environments, and assets |
-| 🧠 Game Design | Gameplay systems and world-building |
-| 🔧 Quality Assurance | Testing and optimization |
-
----
-
-## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dimensionoverride&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub statistics" />
+### Building Beyond the Ordinary.
 
-<br/>
+Follow the development of **Dimension Override**.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dimensionoverride&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00D9FF" alt="GitHub streak" />
+[GitHub Profile](https://github.com/dimensionoverride)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimensionoverride&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="Top languages" />
-
-</div>
-
----
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dimensionoverride&bg_color=0D1117&color=8B5CF6&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dimensionoverride/dimensionoverride/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-
-</div>
-
----
-
-## 🎯 OUR MISSION
-
-To create unforgettable gaming experiences that challenge perception, reward teamwork, and redefine interactive storytelling.
-
-We believe the future of gaming lies in **innovation, immersion, and player-driven experiences**.
-
----
-
-## 🌐 CONNECT WITH US
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-DimensionOverride-181717?style=for-the-badge&logo=github)](https://github.com/dimensionoverride)
-
-**Follow our journey as we build a world beyond reality.**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=dimensionoverride&label=PROFILE+VISITORS&color=8B5CF6&style=for-the-badge" alt="Profile visits"/>
-
-<br/><br/>
-
-### ⚡ DIMENSION OVERRIDE ⚡
-
-*BEYOND REALITY. BEYOND LIMITS.*
-
-**© 2026 Dimension Override. All Rights Reserved.**
+<sub>© 2026 Dimension Override</sub>
 
 </div>
